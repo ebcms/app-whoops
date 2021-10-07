@@ -1,0 +1,10 @@
+{
+    "name": "ebcms/whoops",
+    "description": "错误输出",
+    "type": "ebcms-app",
+    "license": "Apache-2.0",
+    "require": {
+        "ebcms/framework": "^2.0",
+        "filp/whoops": "^2.14"
+    }
+}
